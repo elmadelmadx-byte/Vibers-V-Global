@@ -1,0 +1,252 @@
+{
+  "applications": [
+    {
+      "id": "app-101",
+      "registrationTrack": "official",
+      "realFullName": "عبدالله محمد الفيصل العتيبي",
+      "nickname": "الصقر الملكي VIP",
+      "email": "abdullah.alotaibi@vibers-agency.sa",
+      "countryCode": "+966",
+      "phoneNumber": "554892103",
+      "fullPhone": "+966 554892103",
+      "whatsappPhone": "+966 554892103",
+      "businessActivity": "خدمات الشحن الفوري وتوزيع العملات الرقمية (Global Coin & VIP Shipping)",
+      "selectedRoles": [
+        "super_admin",
+        "shipping_agent"
+      ],
+      "bio": "خبرة 5 سنوات في إدارة شحن تطبيقات الدردشة الصوتية في الخليج مع قاعدة عملاء تتجاوز 1500 داعم VIP.",
+      "age": 29,
+      "gender": "male",
+      "nationalIdNumber": "1098472619",
+      "residenceAddress": "المملكة العربية السعودية، الرياض، حي النخيل",
+      "streetName": "طريق الملك فهد الفرعي",
+      "houseNumber": "14B",
+      "managedBdCount": 18,
+      "managedBdNamesOrCodes": "فريق صقور نجد (18 مطور أعمال معتمدين بأرقام اشتراك رسمية)",
+      "status": "banned",
+      "candidateRating": 7,
+      "moderationNotes": "ملف مكتمل ومستوفي كافة شروط السوبر أدمن مع 18 BD نشطين.",
+      "submittedAt": "2026-10-10 14:20"
+    },
+    {
+      "id": "app-102",
+      "registrationTrack": "official",
+      "realFullName": "سارة أحمد محمود المنصور",
+      "nickname": "Queen Sarah Audio",
+      "email": "sarah.mansour@voicehub.ae",
+      "countryCode": "+971",
+      "phoneNumber": "508374911",
+      "fullPhone": "+971 508374911",
+      "whatsappPhone": "+971 508374911",
+      "businessActivity": "إدارة وتشغيل وكالات المضيفين والمذيعين (Host Agency Management)",
+      "selectedRoles": [
+        "admin",
+        "host_agent"
+      ],
+      "bio": "مؤسسة وكالة صوتية تضم 85 مضيفة محترفة في الإمارات والأردن، نرغب بالانضمام تحت مظلة Vibers V العالمية.",
+      "age": 26,
+      "gender": "female",
+      "nationalIdNumber": "784-1998-1234567-1",
+      "residenceAddress": "الإمارات العربية المتحدة، دبي، الخليج التجاري",
+      "streetName": "شارع مراسي درايف",
+      "houseNumber": "برج الأوبال 402",
+      "managedBdCount": 9,
+      "managedBdNamesOrCodes": "وكالة ستارز فويس (9 مطوري أعمال متعاقدين رسمياً)",
+      "status": "approved",
+      "candidateRating": 7,
+      "moderationNotes": "تمت المقابلة واعتمادها كأدمن رسمي مع فريق 9 BD.",
+      "submittedAt": "2026-10-09 19:45"
+    },
+    {
+      "id": "app-103",
+      "registrationTrack": "quick",
+      "realFullName": "كريم طارق حسن الشناوي",
+      "nickname": "Karim Tech BD",
+      "email": "karim.shenawy@devstream.eg",
+      "countryCode": "+20",
+      "phoneNumber": "1092837465",
+      "fullPhone": "+20 1092837465",
+      "whatsappPhone": "+20 1092837465",
+      "businessActivity": "تطوير الأعمال والتوسع الإقليمي للتطبيقات (Regional BD & Growth)",
+      "selectedRoles": [
+        "bd"
+      ],
+      "bio": "مطور أعمال سابق في منصات صوتية، متخصص في التعاقد مع الوكالات الكبرى.",
+      "age": 24,
+      "gender": "male",
+      "status": "waitlist",
+      "candidateRating": 5,
+      "moderationNotes": "تسجيل مختصر بنسبة 50% - في قائمة الانتظار لحين استكمال الوثائق الرسمية.",
+      "submittedAt": "2026-10-10 16:05"
+    }
+  ],
+  "banners": [
+    {
+      "id": "banner-1",
+      "titleAr": "Vibers V العالمية لتنمية التطبيقات ودعم الدردشة الصوتية",
+      "subtitleAr": "بقيادة المدير العام عيون Prince — نبني الجيل القادم من منصات التواصل الصوتي التفاعلي، وندعم الوكالات والمضيفين ووكلاء الشحن في أكثر من 35 دولة حول العالم.",
+      "kickerEn": "VIBERS V GLOBAL · EXECUTIVE ECOSYSTEM",
+      "imageUrl": "/src/assets/images/banner_voice_chat_ecosystem_1791675975272.jpg",
+      "ctaTextAr": "انضم إلى فريق القيادة الآن",
+      "ctaTarget": "#join-team",
+      "statsHighlight": "+1.4M مستخدم نشط شهرياً عبر شبكتنا"
+    },
+    {
+      "id": "banner-2",
+      "titleAr": "تطوير تقني متكامل وهندسة غرف الدردشة الفورية",
+      "subtitleAr": "نقدم حلولاً برمجية فائقة السرعة لنقاء الصوت، أنظمة الهدايا ثلاثية الأبعاد، ومستويات الـ VIP مع حماية متكاملة ضد الاختراق واستقرار بنسبة 99.98%.",
+      "kickerEn": "ULTRA-LOW LATENCY AUDIO ARCHITECTURE",
+      "imageUrl": "/src/assets/images/banner_app_development_hub_1791675985654.jpg",
+      "ctaTextAr": "استكشف أنشطتنا وخدماتنا",
+      "ctaTarget": "#activities",
+      "statsHighlight": "أقل من 18ms زمن استجابة صوتية عالمياً"
+    },
+    {
+      "id": "banner-3",
+      "titleAr": "شبكة وكلاء الشحن ووكلاء المضيفين الأقوى عالمياً",
+      "subtitleAr": "منظومة مالية وإدارية موثوقة تضمن أعلى العوائد لوكلاء الشحن، المضيفين، مطوري الأعمال (BD)، وفريق الإدارة تحت إشراف مباشر من عيون Prince.",
+      "kickerEn": "GLOBAL AGENCY & VIP SHIPPING NETWORK",
+      "imageUrl": "/src/assets/images/banner_vip_agency_network_1791675995675.jpg",
+      "ctaTextAr": "قدم طلب اعتماد وكالتك",
+      "ctaTarget": "#join-team",
+      "statsHighlight": "+480 وكالة شحن ومضيفين معتمدة"
+    }
+  ],
+  "comments": [
+    {
+      "id": "rev-1",
+      "authorName": "فهد الدوسري",
+      "authorHandle": "@fahad_vip_ksa",
+      "stars": 7,
+      "comment": "شركة Vibers V العالمية بقيادة المدير العام عيون Prince نقلت وكالتنا لمستوى عالمي. سرعة في الشحن، دعم فني على مدار الساعة، واحترافية غير مسبوقة في إدارة التطبيقات الصوتية.",
+      "createdAt": "منذ ساعتين",
+      "activityType": "وكيل شحن معتمد"
+    },
+    {
+      "id": "rev-2",
+      "authorName": "نور الهدى العلي",
+      "authorHandle": "@nour_host_agency",
+      "stars": 7,
+      "comment": "أفضل منظومة لدعم وكلاء المضيفين والـ BD. الرواتب والمكافآت تنزل في موعدها بالدقيقة، وفريق السوبر أدمن متعاون جداً في حل أي مشكلة تقنية فوراً.",
+      "createdAt": "منذ 5 ساعات",
+      "activityType": "وكيل مضيفين"
+    },
+    {
+      "id": "rev-3",
+      "authorName": "عمر الزهراني",
+      "authorHandle": "@omar_audio_dev",
+      "stars": 6,
+      "comment": "جودة السيرفرات الصوتية وتصميم غرف الـ VIP في تطبيقات Vibers V تتفوق على جميع المنافسين. تجربة ممتازة وتستحق 7 نجوم بجدارة.",
+      "createdAt": "يوم أمس",
+      "activityType": "تطوير تطبيقات"
+    }
+  ],
+  "bannedHandles": [],
+  "stats": {
+    "activeUsers": 2750340,
+    "hostAgencies": 19700,
+    "totalHosts": 350000,
+    "shippingAgents": 7860,
+    "superAdmins": 2573,
+    "admins": 3940,
+    "bds": 8806,
+    "hostAgents": 19700,
+    "officialRegistrations": 14820,
+    "quickRegistrations": 38450,
+    "dailyActiveLogins": 42890
+  },
+  "customCards": [
+    {
+      "id": "super-admins",
+      "topText": "EXECUTIVE GOVERNANCE (15 BDs)",
+      "insideTitle": "سوبر أدمن (Super Admins)",
+      "bottomText": "قيادات رقابية عليا تدير أقاليم ووكالات متكاملة",
+      "starsCount": 7,
+      "iconEmoji": "👑",
+      "iconType": "shieldAlert"
+    },
+    {
+      "id": "admins",
+      "topText": "OPERATIONS & TRUST (7 BDs)",
+      "insideTitle": "الأدمن (System Admins)",
+      "bottomText": "إشراف مباشر ودعم فني على مدار الساعة 24/7",
+      "starsCount": 6,
+      "iconEmoji": "🛡️",
+      "iconType": "shieldCheck"
+    },
+    {
+      "id": "bds",
+      "topText": "BUSINESS DEVELOPERS",
+      "insideTitle": "مطورو الأعمال (BDs)",
+      "bottomText": "استقطاب الوكالات وتوسيع شبكة الانتشار",
+      "starsCount": 7,
+      "iconEmoji": "💼",
+      "iconType": "briefcase"
+    },
+    {
+      "id": "shipping-agents",
+      "topText": "VIP SHIPPING AGENTS",
+      "insideTitle": "وكلاء شحن معتمدين",
+      "bottomText": "خدمات شحن العملات الرقمية والماسات الفورية",
+      "starsCount": 7,
+      "iconEmoji": "📦",
+      "iconType": "coins"
+    },
+    {
+      "id": "host-agents",
+      "topText": "VOICE HOST AGENTS",
+      "insideTitle": "وكلاء مضيفين وصناع محتوى",
+      "bottomText": "إدارة وتدريب المذيعين وتنشيط الغرف الصوتية",
+      "starsCount": 7,
+      "iconEmoji": "🎤",
+      "iconType": "mic"
+    },
+    {
+      "id": "official-reg",
+      "topText": "OFFICIAL 100% FAST-TRACK",
+      "insideTitle": "المسجلون رسمياً (التسجيل الرسمي 100%)",
+      "bottomText": "ملف موثق بالهوية والعنوان - أولوية توظيف فورية",
+      "starsCount": 7,
+      "iconEmoji": "✅",
+      "iconType": "award"
+    },
+    {
+      "id": "quick-reg",
+      "topText": "QUICK ENTRY 50% PROBABILITY",
+      "insideTitle": "المسجلون بالنموذج المختصر (50%)",
+      "bottomText": "بيانات سريعة - قيد التقييم الأولي والمطابقة",
+      "starsCount": 5,
+      "iconEmoji": "⚡",
+      "iconType": "fileText"
+    },
+    {
+      "id": "active-users",
+      "topText": "REAL-TIME PARTICIPANTS",
+      "insideTitle": "المستخدمون النشطون (Active Users)",
+      "bottomText": "متصلون الآن في غرف الدردشة الصوتية عالمياً",
+      "starsCount": 7,
+      "iconEmoji": "🟢",
+      "iconType": "users"
+    }
+  ],
+  "subAdmins": [
+    {
+      "id": "sub-1",
+      "name": "مساعد العمليات والمراجعة",
+      "email": "ops@vibersv.com",
+      "password": "VibersOps2026@",
+      "roleTitle": "مشرف مراجعة الطلبات والتقييمات",
+      "permissions": {
+        "canApproveApplicants": true,
+        "canRejectApplicants": true,
+        "canBanUsers": false,
+        "canDeleteReviews": false,
+        "canEditBanners": false,
+        "canViewStatsOnly": false,
+        "canEvaluateCandidates": true
+      },
+      "createdAt": "2026-10-10"
+    }
+  ]
+}

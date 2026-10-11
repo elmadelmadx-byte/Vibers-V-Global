@@ -1,0 +1,6 @@
+{
+  "name": "Vibers V Global | العالمية لتنمية التطبيقات ودعم الدردشة الصوتية",
+  "description": "شركة Vibers V العالمية لتنمية التطبيقات ودعم تطبيقات الدردشة الصوتية بقيادة المدير العام عيون Prince.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
